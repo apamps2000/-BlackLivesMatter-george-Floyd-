@@ -2,7 +2,7 @@
 """
 Created on Wed Jul 15 10:14:54 2020
 
-@author: Olatunji Apampq
+@author: Olatunji Apampa
 """
 
 
